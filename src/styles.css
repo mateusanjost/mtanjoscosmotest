@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+overflow-x: hidden;
+
+}
+
+.titleb {
+    position: relative;
+    top: -20em;
+    left: 24em;
+    padding: 1em;
+    /* background: gray; */
+    border-bottom: 5px solid #343a40;
+}
+
+.card {
+
+    border-bottom: none !important;
+}
